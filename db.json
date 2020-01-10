@@ -1,17 +1,17 @@
 [
     {
-        "name": "RB26",
+        "name": "RB",
         "Brand": "Nissan",
-        "Mesin ": "nesin 2,0-3,0 L straight-6 four-stroke petrol/gasoline dari Nissan",
+        "Mesin ": "Mesin 2,0-3,0 L straight-6 four-stroke petrol/gasoline dari Nissan",
         "Tahun Produksi": "1985 - 2004",
         "Versi": "SOHC dan DOHC",
         "Dimensi Mesin ": "RB20- RB24-RB25-RB26-RB30"
     },
 
     {
-        "name": "2JZ-VVT-I",
+        "name": "JZ",
         "Brand": "Toyota",
-        "Mesin ": "nesin 2,5 - 3,0 L ",
+        "Mesin ": "Mesin 2,5 - 3,0 L ",
         "Tahun Produksi": "1990 - 2007",
         "Versi": "DOHC",
         "Dimensi Mesin ": "1JZ-GE, 1JZ-GTE, 1JZ-FSE, 2JZ-GE, 2JZ-GTE, 2JZ-FSE "
@@ -27,43 +27,11 @@
     },
         
     {
-        "name": "4G63",
+        "name": "4G",
         "Brand": "Mitsubishi",
         "Mesin ": "1,2 - 2,0 L",
         "Tahun Produksi": "1979 - Now",
         "Versi": "SOHC dan OHC",
         "Dimensi Mesin ": "4G62 , 4G33,  4G32 , 4G11, 4G63 "
-    },
-    {
-        "name": "RB25 DET",
-        "Brand": "Nissan",
-        "Mesin ": "nesin 2,0-3,0 L straight-6 four-stroke petrol/gasoline dari Nissan",
-        "Tahun Produksi": "1985 - 2004",
-        "Versi": "SOHC dan DOHC",
-        "Dimensi Mesin ": "RB20- RB24-RB25-RB26-RB30"
-    },
-    {
-        "name": "2JZ-GE",
-        "Brand": "Nissan",
-        "Mesin ": "nesin 2,0-3,0 L straight-6 four-stroke petrol/gasoline dari Nissan",
-        "Tahun Produksi": "1985 - 2004",
-        "Versi": "SOHC dan DOHC",
-        "Dimensi Mesin ": "RB20- RB24-RB25-RB26-RB30"
-    },
-    {
-        "name": "1JZ-GTE",
-        "Brand": "Nissan",
-        "Mesin ": "nesin 2,0-3,0 L straight-6 four-stroke petrol/gasoline dari Nissan",
-        "Tahun Produksi": "1985 - 2004",
-        "Versi": "SOHC dan DOHC",
-        "Dimensi Mesin ": "RB20- RB24-RB25-RB26-RB30"
-    },
-     {
-        "name": "Rotary",
-        "Brand": "Nissan",
-        "Mesin ": "nesin 2,0-3,0 L straight-6 four-stroke petrol/gasoline dari Nissan",
-        "Tahun Produksi": "1985 - 2004",
-        "Versi": "SOHC dan DOHC",
-        "Dimensi Mesin ": "RB20- RB24-RB25-RB26-RB30"
     }
 ]
